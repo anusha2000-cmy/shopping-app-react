@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Casual Shoes",
+        "price": 2999,
+        "image": "https://cdn.pixabay.com/photo/2021/03/08/12/31/oxford-shoes-6078993_1280.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Nike Shoes",
+        "price": 6949,
+        "image": "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg"
+    },
+    {
+        "id": 3,
+        "name": "High Heels",
+        "price": 1499,
+        "image": "https://cdn.pixabay.com/photo/2023/02/23/22/45/shoes-7809732_960_720.png"
+    },
+    {
+        "id": 4,
+        "name": "Boots",
+        "price": 7999,
+        "image": "https://cdn.pixabay.com/photo/2018/01/10/23/00/hiking-shoes-3074971_960_720.png"
+    },
+    {
+        "id": 5,
+        "name": "High heels",
+        "price": 1299,
+        "image": "https://cdn.pixabay.com/photo/2017/10/16/14/28/style-2857387_1280.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sports Shoes",
+        "price": 1499,
+        "image": "https://cdn.pixabay.com/photo/2015/09/30/16/06/feet-965688_1280.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Men's Watch",
+        "price": 12999,
+        "image": "https://cdn.pixabay.com/photo/2015/09/09/02/03/clock-931027_1280.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pocket Watch",
+        "price": 999,
+        "image": "https://cdn.pixabay.com/photo/2017/07/23/14/01/pocket-watch-2531472_640.png"
+    },
+    {
+        "id": 9,
+        "name": "Smart Watch",
+        "price": 24999,
+        "image": "https://cdn.pixabay.com/photo/2015/06/25/17/22/smart-watch-821559_1280.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ladies Watch",
+        "price": 899,
+        "image": "https://cdn.pixabay.com/photo/2016/04/06/14/04/watch-1311821_640.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Alarm Clock",
+        "price": 299,
+        "image": "https://cdn.pixabay.com/photo/2017/11/27/07/02/time-2980690_960_720.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Women's Backpack",
+        "price": 599,
+        "image": "https://cdn.pixabay.com/photo/2016/11/18/19/39/backpack-1836594_1280.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Jute Bag",
+        "price": 999,
+        "image": "https://cdn.pixabay.com/photo/2020/03/13/04/06/handmade-4926871_960_720.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Sling Bag",
+        "price": 199,
+        "image": "https://cdn.pixabay.com/photo/2017/12/24/15/00/pouch-3037112_960_720.jpg"
+    }
+]
